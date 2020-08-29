@@ -9,4 +9,4 @@
 
 <img src='https://github-readme-stats.vercel.app/api?username=kiranmurali93&&show_icons=true&title_color=fgffff&icon_color=fgffff&text_color=FFFFF&bg_color=0000'>
 
- [Check this out to know to to make github profile readme](https://kiranmurali93.github.io/blog/post/github_profile_readme/)
+ [Check this out to know how to make github profile readme](https://kiranmurali93.github.io/blog/post/github_profile_readme/)
