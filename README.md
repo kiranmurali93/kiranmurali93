@@ -12,4 +12,4 @@
  [Check this out to know how to make github profile readme](https://kiranmurali93.github.io/blog/post/github_profile_readme/)
 
 
-<img src = 'https://img.shields.io/twitter/follow/Kirannambair?style=social'>
+![Twitter Follow](https://img.shields.io/twitter/follow/Kirannambair?style=social)
