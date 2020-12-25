@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on everything 
 - 🌱 I’m currently learning video editing
-- 👯 I’m looking to collaborate on contents for my youtube channel
+- 👯 I’m looking to collaborate with people in tech
 
 <br>
 
