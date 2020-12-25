@@ -7,7 +7,14 @@
 
 <br>
 
-[<img align='centre' src='https://github-readme-stats.vercel.app/api?username=kiranmurali93&&show_icons=true&title_color=fgffff&icon_color=fgffff&text_color=FFFFF&bg_color=0000' >][]
+----
+
+<br>
+<img align='centre' src='https://github-readme-stats.vercel.app/api?username=kiranmurali93&&show_icons=true&title_color=fgffff&icon_color=fgffff&text_color=FFFFF&bg_color=0000' >
+
+<br>
+
+----
 
 <br>
 
@@ -16,6 +23,11 @@
  [Check this out to know how to make github profile readme](https://kiranmurali93.github.io/blog/post/github_profile_readme/)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Kirannambair?style=social)
+<br>
+
+----
+
+<br>
 
 ### Languages and Tools:
 
@@ -32,9 +44,20 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br />
-<br />
+<br>
 
+----
+
+<br>
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://www.youtube.com/channel/UC5rb-lnd-4rtJqRIAWurURA)
+
+---
 
 ### Connect with me:
 
