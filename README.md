@@ -53,11 +53,9 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Resource for learning Programming || Malayalam](https://www.youtube.com/watch?v=qEQNu8RKZLY)
-- [GIT AND GITHUB IN MALAYALAM](https://www.youtube.com/watch?v=rn1DJkNvPbY)
-- [GITHUB AND GIT BASH IN MALAYALAM](https://www.youtube.com/watch?v=J9E4plFrxKM)
-- [INTRODUCTION TO VERSION CONTROL SYSTEM || GIT || GITHUB IN MALAYALAM](https://www.youtube.com/watch?v=FeecutHFi4o)
-- [Python3 || Conditional statements || if elif else](https://www.youtube.com/watch?v=Vby7AHGn5vY)
+- [Python Basics | print | variables | input](https://www.youtube.com/watch?v=AuYrtaFvW9E)
+- [Python3 installation in Malayalam (windows and ubuntu)](https://www.youtube.com/watch?v=Buqv_VoP5dw)
+- [Getting started with coding in Malayalam || part 1](https://www.youtube.com/watch?v=Xec5Slv0kKQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC5rb-lnd-4rtJqRIAWurURA)
