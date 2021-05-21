@@ -53,11 +53,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [REST API testing in vs code || Malayalam](https://www.youtube.com/watch?v=gOI9kYG0ppM)
 - [Resource for learning Programming || Malayalam](https://www.youtube.com/watch?v=qEQNu8RKZLY)
 - [GIT AND GITHUB IN MALAYALAM](https://www.youtube.com/watch?v=rn1DJkNvPbY)
 - [GITHUB AND GIT BASH IN MALAYALAM](https://www.youtube.com/watch?v=J9E4plFrxKM)
 - [INTRODUCTION TO VERSION CONTROL SYSTEM || GIT || GITHUB IN MALAYALAM](https://www.youtube.com/watch?v=FeecutHFi4o)
-- [Python3 || Conditional statements || if elif else](https://www.youtube.com/watch?v=Vby7AHGn5vY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC5rb-lnd-4rtJqRIAWurURA)
