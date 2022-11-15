@@ -1,9 +1,9 @@
 ### Hi there, I'm Kiran !👋
 
 
-- 🔭 I’m currently working on everything 
-- 🌱 I’m currently learning video editing
-- 👯 I’m looking to collaborate with people in tech
+- 🔭 I’m currently working on building superhire.net 
+- 🌱 I’m currently learning how to build micro saas products
+- 👯 I’m looking to collaborate with people interested in market research 
 
 <br>
 
