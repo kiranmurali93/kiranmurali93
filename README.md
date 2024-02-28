@@ -1,42 +1,23 @@
-### Hi there, I'm Kiran !👋
+<h1 align="center">Hi 👋, I'm Kiran PK</h1>
+<h3 align="center">I'm a full-stack engineer with experience at multiple startups. I'm passionate about building products. I have a strong background in both front-end and back-end development, with experience in Node.js, React.js, Vue.js, and other technologies.</h3>
 
+- 🔭 I’m currently working at **Dexif**
 
-- 🔭 I’m currently working on building [superhire.net](https://www.superhire.net/) 
-- 🌱 I’m currently learning how to build micro saas products
+- 🌱 I’m currently learning **Golang**
 
-<br>
+- 👯 I’m looking to collaborate on [GPT-CLI](https://github.com/kiranmurali93/gpt-cli)
 
-----
+- 📝 I regularly write articles on [blog.kiranpk.dev](https://blog.kiranpk.dev/)
 
-<br>
+- 💬 Ask me about **React, Vue, Node**
 
-### 📺 Latest YouTube Videos
+- 📫 How to reach me **kiranmurali93@gmail.com**
 
-<!-- YOUTUBE:START -->
-- [REST API testing in vs code || Malayalam](https://www.youtube.com/watch?v=gOI9kYG0ppM)
-- [Resource for learning Programming || Malayalam](https://www.youtube.com/watch?v=qEQNu8RKZLY)
-- [GIT AND GITHUB IN MALAYALAM](https://www.youtube.com/watch?v=rn1DJkNvPbY)
-- [GITHUB AND GIT BASH IN MALAYALAM](https://www.youtube.com/watch?v=J9E4plFrxKM)
-- [INTRODUCTION TO VERSION CONTROL SYSTEM || GIT || GITHUB IN MALAYALAM](https://www.youtube.com/watch?v=FeecutHFi4o)
-<!-- YOUTUBE:END -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/kiran__pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kiran__pk" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kiran-p-k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kiran-p-k" height="30" width="40" /></a>
+</p>
 
-➡️ [more videos...](https://www.youtube.com/channel/UC5rb-lnd-4rtJqRIAWurURA)
-
----
-
-### Connect with me:
-
-
-[<img align="left" alt="Codewithkiran | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
-
-[youtube]: https://www.youtube.com/channel/UC5rb-lnd-4rtJqRIAWurURA/videos
-[instagram]: https://www.instagram.com/kiran__nambiar/
-[linkedin]: https://www.linkedin.com/in/kiran-p-k/
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
